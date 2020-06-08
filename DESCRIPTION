@@ -1,7 +1,7 @@
 Package: CorMut
 Type: Package
 Title: Detect the correlated mutations based on selection pressure
-Version: 1.31.0
+Version: 1.31.1
 Date: 2018-02-21
 Author: Zhenpeng Li
 Maintainer: Zhenpeng Li<zpli21@gmail.com>
@@ -21,3 +21,4 @@ Description: CorMut provides functions for computing kaks for
         the sequence file, and does not allow the presence of gap.
 License: GPL-2
 biocViews: Sequencing
+PackageStatus: Deprecated
